@@ -12,4 +12,4 @@ GET /health
 GET /api/top?country=us
 GET /api/search?q=bitcoin
 
-<img width="1460" height="851" alt="Ekran Resmi 2025-10-17 23 21 46" src="https://github.com/user-attachments/assets/b0372b55-d209-4d1b-9366-34d31089daa9" />
+<img width="1460" height="809" alt="Ekran Resmi 2025-10-17 23 33 39" src="https://github.com/user-attachments/assets/ee3e7ad4-853a-4d8b-ab49-0aae6356bf76" />
